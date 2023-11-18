@@ -8,4 +8,6 @@
 
     <toc-element topic="Overview.md"/>
     <toc-element topic="CMake.md"/>
+    <toc-element topic="libhv.md"/>
+    <toc-element topic="eCAL.md"/>
 </instance-profile>
