@@ -31,7 +31,7 @@ Graphics Pipeline Flow
 : **Fragment Shader** compute the final color for each pixel
 : **Alpha Test and Blending** do depth and stencil test and do blend
 
-Normalized Device Coordinates **NDC**
+Normalized Device Coordinates NDC
 : three axis all between `[-1,1]`
 
 if we have some data about this like a triangle:
