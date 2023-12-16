@@ -31,7 +31,7 @@ Graphics Pipeline Flow
 : **Fragment Shader** compute the final color for each pixel
 : **Alpha Test and Blending** do depth and stencil test and do blend
 
-Normalized Device Coordinates **NDC**
+Normalized Device Coordinates NDC
 : three axis all between `[-1,1]`
 
 if we have some data about this like a triangle:
@@ -110,4 +110,27 @@ void main()
   glDeleteShader(vertex_shader);
   glDeleteShader(fragment_shader);
 ```
+
 {collapsible="true" collapsed-title="shader"}
+
+## Coordinate System
+
+| Coordinate System |
+|-------------------|
+| Local Space       |
+| World Space       |
+| View Space        |
+| Clip Space        |
+| Screen Space      |
+
+Matrices
+: Model
+: View
+: Projection
+
+`local space` -model matrix-> `world space` -view matrix-> `view space` -projection matrix-> `clip space` -viewport
+transform-> `screen space`
+
+what dose `glViewPort` define is viewport transform
+
+![](coordinate_systems.png)
