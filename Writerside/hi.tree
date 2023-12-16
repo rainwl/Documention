@@ -10,6 +10,8 @@
     <toc-element topic="CMake.md"/>
     <toc-element topic="libhv.md"/>
     <toc-element topic="eCAL.md"/>
-    <toc-element topic="GLFW.md"/>
+    <toc-element topic="GLFW.md">
+        <toc-element topic="Camera.md"/>
+    </toc-element>
     <toc-element topic="ImGUI.md"/>
 </instance-profile>
