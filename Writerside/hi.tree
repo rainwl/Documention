@@ -6,6 +6,7 @@
                  name="Documents"
                  start-page="Overview.md">
 
+    <toc-element topic="GitHubIntro.md"/>
     <toc-element topic="Overview.md"/>
     <toc-element topic="CMake.md"/>
     <toc-element topic="libhv.md"/>
