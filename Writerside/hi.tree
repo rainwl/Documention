@@ -16,4 +16,5 @@
         <toc-element topic="Camera.md"/>
     </toc-element>
     <toc-element topic="ImGUI.md"/>
+    <toc-element topic="C-Timer.md"/>
 </instance-profile>
