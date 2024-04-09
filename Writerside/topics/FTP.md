@@ -6,7 +6,7 @@ Connect to the server remotely and upload files
 
 [Get public ip](https://www.whatismyip.com/)
 
-- Enter the website and see what's your ps's public ip
+- Enter the website and see what's your pc's public ip
 - Do not open VPN
 ![](publicip.png)
 
