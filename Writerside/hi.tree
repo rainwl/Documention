@@ -21,6 +21,12 @@
         <toc-element topic="Eigen.md"/>
         <toc-element topic="EigenSamples.md"/>
     </toc-element>
+    <toc-element topic="Mathematics.md">
+        <toc-element topic="Tensor-Calculus.md"/>
+        <toc-element topic="Linear-Algebra.md"/>
+        <toc-element topic="Numeric-Analysis.md"/>
+        <toc-element topic="NonlinearOptimization.md"/>
+    </toc-element>
     <toc-element topic="Sundry.md">
         <toc-element topic="GitHubIntro.md"/>
         <toc-element topic="FTP.md"/>

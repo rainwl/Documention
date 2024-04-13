@@ -14,4 +14,8 @@
         <description>Created after removal of "GLFW" from Documents</description>
         <accepts>GLFW.html</accepts>
     </rule>
+    <rule id="59f76031">
+        <description>Created after removal of "Tensor Calculus" from Documents</description>
+        <accepts>Tensor-Calculus.html</accepts>
+    </rule>
 </rules>
