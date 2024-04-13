@@ -7,16 +7,18 @@
                  start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
-    <toc-element topic="GitHubIntro.md"/>
-    <toc-element topic="VisualStudio-cancel-Console.md"/>
-    <toc-element topic="CMake.md"/>
-    <toc-element topic="libhv.md"/>
-    <toc-element topic="eCAL.md"/>
-    <toc-element topic="GLFW.md">
-        <toc-element topic="Camera.md"/>
+    <toc-element topic="C.md">
+        <toc-element topic="PCH.md"/>
+        <toc-element topic="ImGUI.md"/>
+        <toc-element topic="eCAL.md"/>
+        <toc-element topic="libhv.md"/>
+        <toc-element topic="CMake.md"/>
+        <toc-element topic="C-wrapper.md"/>
+        <toc-element topic="C-Timer.md"/>
+        <toc-element topic="VisualStudio-cancel-Console.md"/>
     </toc-element>
-    <toc-element topic="ImGUI.md"/>
-    <toc-element topic="C-Timer.md"/>
-    <toc-element topic="PCH.md"/>
-    <toc-element topic="FTP.md"/>
+    <toc-element topic="Sundry.md">
+        <toc-element topic="GitHubIntro.md"/>
+        <toc-element topic="FTP.md"/>
+    </toc-element>
 </instance-profile>

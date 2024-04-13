@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1b2ac83b">
+        <description>Created after removal of "Camera" from Documents</description>
+        <accepts>Camera.html</accepts>
+    </rule>
+    <rule id="6423c1bf">
+        <description>Created after removal of "GLFW" from Documents</description>
+        <accepts>GLFW.html</accepts>
+    </rule>
+</rules>
