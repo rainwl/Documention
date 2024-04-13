@@ -1,3 +1,3 @@
-# Sundry
+# Miscellaneous
 
-Here are some sundry things
+Here are some miscellaneous things

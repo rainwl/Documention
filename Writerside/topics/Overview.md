@@ -1,8 +1,3 @@
 # Overview
 
-## C++ 
-[CMake tutorial](CMake.md)
-
-[libhv tutorial](libhv.md)
-
-[eCAL tutorial](eCAL.md)
+## Here are some of my public notes
