@@ -5,8 +5,8 @@
     <variables>
         <primary-color>purple</primary-color>
         <color-preset>soft</color-preset>
-        <custom-favicons>icon.png</custom-favicons>
-        <header-logo>icon.png</header-logo>
+        <custom-favicons>icon.jpg</custom-favicons>
+        <header-logo>icon.jpg</header-logo>
         <download-title>Github</download-title>
         <download-page>https://github.com/rainwl</download-page>
         <showDownloadButton>true</showDownloadButton>
@@ -14,7 +14,6 @@
     <footer>
         <social type="bilibili" href="https://space.bilibili.com/397578068?spm_id_from=333.1007.0.0">Writerside Blog</social>
 
-        <link href="wl20000718@gmail.com">Contact me</link>
         <copyright>2000 Rain s.r.o.</copyright>
     </footer>
     <build-profile instance="hi">
