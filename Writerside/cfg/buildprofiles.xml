@@ -5,7 +5,7 @@
     <variables>
         <primary-color>purple</primary-color>
         <color-preset>soft</color-preset>
-        <custom-favicons>my.png</custom-favicons>
+        <custom-favicons>myfav.png</custom-favicons>
         <header-logo>my.png</header-logo>
         <download-title>Github</download-title>
         <download-page>https://github.com/rainwl</download-page>
